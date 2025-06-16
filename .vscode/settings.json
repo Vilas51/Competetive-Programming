@@ -1,0 +1,31 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "complex": "cpp",
+        "*.tcc": "cpp",
+        "cmath": "cpp",
+        "chrono": "cpp",
+        "ranges": "cpp",
+        "variant": "cpp",
+        "regex": "cpp",
+        "ostream": "cpp",
+        "random": "cpp",
+        "iosfwd": "cpp",
+        "bitset": "cpp",
+        "algorithm": "cpp",
+        "format": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "valarray": "cpp",
+        "span": "cpp",
+        "new": "cpp",
+        "ratio": "cpp",
+        "array": "cpp",
+        "string_view": "cpp"
+    },
+    "liveServer.settings.port": 5501,
+    "C_Cpp.errorSquiggles": "disabled"
+}
