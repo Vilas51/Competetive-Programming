@@ -15,7 +15,8 @@ void solve(){
     vector<ll>v(n);
     for(ll i=0;i<n;i++)cin>>v[i];
     ll count=1;
-    bool flag=0,flag2=0;
+    bool flag=0;
+    bool flag2=0;
     int prev=v[0];
     for(ll i=1;i<n;i++){
         if(prev+1<v[i]){
